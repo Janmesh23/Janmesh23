@@ -21,7 +21,7 @@ Plant trees, get carbon credits 💸
 ### Connect with me
 ### Connect with me
 
-- 🐦 Twitter: [@0xJanmeshh](https://x.com/0xJanmeshh)
+- 🐦 Twitter: [0xJanmeshh](https://x.com/0xJanmeshh)
 - 💼 LinkedIn: [Janmesh Shewale](https://www.linkedin.com/in/janmeshshewale/)
 
 
