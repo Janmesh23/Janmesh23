@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Janmesh 👋
 
-<!--
-**Janmesh23/Janmesh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web3 🌱 + Rust enthusiast 🦀    
+Building dApps, sustainable blockchains, and cool CLI tools 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
+- Rust, Solidity, JavaScript
+- Next.js, Hardhat, Foundry
+- IPFS, The Graph, 1inch, ERC-4337, ZK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Janmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janmesh23&show_icons=true&theme=radical)
+
+## 🧠 Fun Fact
+I'm building a platform to reward people for eco-friendly actions 🌳  
+Plant trees, get carbon credits 💸
+
+---
+
+### 🌐 Connect with me
+[![Twitter](https://img.shields.io/badge/X-@janmesh23-1DA1F2?style=for-the-badge&logo=x)]((https://x.com/0xJanmeshh))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janmesh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/janmeshshewale)
