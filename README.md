@@ -10,7 +10,7 @@ Building dApps, sustainable blockchains, and cool CLI tools 🚀
 
 ## 💼 What I've & I'm Currently Working On
 
-- 🔺 Contributd in building an **L2 solution** on top of the **Avalanche network**, focused on scalability and high query resolution/sec.
+- 🔺 Contributed in building an **L2 solution** on top of the **Avalanche network**, focused on scalability and high query resolution/sec.
 - 🛠️ Built a **private blockchain** using **Go-Ethereum (geth)** to understand and implement low-level consensus(PoS & PoA) , networking, and account models.
 - 🌱 Exploring areas like **Account Abstraction (ERC-4337)**, including **custom Paymaster contracts** for gasless transactions, and **climate-based token economies**.
 
