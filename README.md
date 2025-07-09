@@ -20,8 +20,6 @@ Building dApps, sustainable blockchains, and cool CLI tools 🚀
 I'm building a platform to reward people for eco-friendly actions 🌳  
 Plant trees, get carbon credits 💸
 
---
-
 
 ### Connect with me
 
