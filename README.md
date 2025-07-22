@@ -1,4 +1,4 @@
-# Hi, I'm Janmesh 👋
+# Hi, I'm Janmesh Shewale 👋
 
 I'm a Web3 🌱 + Rust enthusiast 🦀    
 Building dApps, sustainable blockchains, and cool CLI tools 🚀
