@@ -1,4 +1,4 @@
-# Hi, I'm Janmesh Shewale 👋
+# Hi, I'm Janmesh 👋
 
 I'm a Web3 🌱 + Rust enthusiast 🦀    
 Building dApps, sustainable blockchains, and cool CLI tools 🚀
@@ -6,7 +6,7 @@ Building dApps, sustainable blockchains, and cool CLI tools 🚀
 ## 🛠️ Technologies
 - Rust, Solidity, JavaScript
 - Next.js, Hardhat, Foundry
-- IPFS, The Graph, 1inch, ERC-4337, ZK
+- IPFS, Monad, 1inch, ERC-4337, ZK
 
 ## 💼 What I've & I'm Currently Working On
 
